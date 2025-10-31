@@ -3,4 +3,6 @@ cara pemasangan
 2. silahkan edit koneksi database yang berlokasi dalam assets/koneksi.php dan di sesuaikan dengan kondisi database anda
 3. enjoy
 
-https://github.com/CekkoTMK/aplikasi-web-iventaris-barang/blob/main/1.png
+
+![Deskripsi gambar]([https://i.imgur.com/namafile.jpg](https://github.com/CekkoTMK/aplikasi-web-iventaris-barang/blob/main/1.png))
+
