@@ -4,5 +4,6 @@ cara pemasangan
 3. enjoy
 
 
-![Deskripsi gambar]([https://i.imgur.com/namafile.jpg](https://github.com/CekkoTMK/aplikasi-web-iventaris-barang/blob/main/1.png))
+<img src="https://github.com/CekkoTMK/aplikasi-web-iventaris-barang/blob/main/1.png?raw=true" width="400" alt="Tampilan Aplikasi">
+
 
