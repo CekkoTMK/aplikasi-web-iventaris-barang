@@ -1,0 +1,10 @@
+<?php
+include '../assets/koneksi.php';
+$id_peminjam = $_GET['id'];
+$hapus = $mysqli->query("DELETE FROM anggota WHERE id_anggota=$id_peminjam");
+if($hapus){
+	header("location:../index.php?page=siswa");
+}else{
+	echo"gagal menghapus data";
+}
+?>
